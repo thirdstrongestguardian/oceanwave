@@ -1,0 +1,22 @@
+{
+  "name": "oceanwave",
+  "version": "0.0.0",
+  "description": "CSS framework",
+  "main": "oceanwave.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirdstrongestguardian/oceanwave.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "William R. Hansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thirdstrongestguardian/oceanwave/issues"
+  },
+  "homepage": "https://github.com/thirdstrongestguardian/oceanwave#readme"
+}
