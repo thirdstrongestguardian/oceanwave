@@ -1,6 +1,6 @@
 {
   "name": "oceanwave",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "CSS framework",
   "main": "oceanwave.sass",
   "scripts": {
